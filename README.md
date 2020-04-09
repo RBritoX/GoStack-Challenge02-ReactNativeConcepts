@@ -32,6 +32,7 @@ This will be an application made with React Native to store repositories in your
 
 - **[React Native](https://reactnative.dev/)**
 - *[Axios](https://nodemon.io/)*
+- *[Jest](https://jestjs.io/)*
 
 ## :checkered_flag: Starting the project
 
