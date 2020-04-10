@@ -10,6 +10,8 @@
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rbritox/GoStack-Challenge03-ReactNativeConcepts">
+    
+  <img alt="React Native version" src="https://img.shields.io/badge/React%20Native-0.62.1-blue?style=flat&logo=react">
 
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rbritox/GoStack-Challenge03-ReactNativeConcepts">
 
