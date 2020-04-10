@@ -15,7 +15,7 @@
 
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/repo-size/rbritox/GoStack-Challenge03-ReactNativeConcepts">
   
-  <img alt="React Native version" src="https://img.shields.io/badge/Node-v12.16.1-important?style=flat&logo=node.js">
+  <img alt="React Native version" src="https://img.shields.io/badge/Node.js-v12.16.1-important?style=flat&logo=node.js">
   
   <img alt="React Native version" src="https://img.shields.io/badge/React%20Native-v0.62.1-important?style=flat&logo=react">
 
