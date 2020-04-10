@@ -13,14 +13,20 @@
 
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rbritox/GoStack-Challenge03-ReactNativeConcepts">
 
-  <a href="https://rocketseat.com.br">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/repo-size/rbritox/GoStack-Challenge03-ReactNativeConcepts">
+
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/codacy/grade/8d42ca3af5484c929d56d1c74d6b594c">
+
+  <a href="https://github.com/RBritoX/GoStack-Challenge03-ReactNativeConcepts/blob/master/LICENSE">
     <img alt="Made by Rocketseat" src="https://img.shields.io/github/license/rbritox/GoStack-Challenge03-ReactNativeConcepts">
   </a>
 </p>
 
-<h3 align="center">
-  :construction: In Construction :construction:
-</h3>
+<p align="center">
+  <a href="#rocket-about-the-challenge">The Challenge</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#hammer_and_wrench-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#checkered_flag-starting-the-project">Starting</a>
+</p>
 
 ## :rocket: About the challenge
 
